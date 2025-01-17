@@ -230,7 +230,6 @@
 - [amisadmin/fastapi-amis-admin](https://github.com/amisadmin/fastapi-amis-admin) - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin.
 - [mostepunk/fastapi-json-log](https://github.com/mostepunk/fastapi-json-log) - fastapi writes all logs to json format for Kibana or OpenSearch
 - [florimondmanca/ddtrace-asgi](https://github.com/florimondmanca/ddtrace-asgi) - Unofficial Datadog tracing integration for ASGI apps and frameworks
-- [khw2ok/bongwonbot](https://github.com/khw2ok/bongwonbot) - 봉원중학교 카카오톡 챗봇
 - [SkyTNT/anime-segmentation](https://github.com/SkyTNT/anime-segmentation) - high-accuracy segmentation for anime character
 - [kakaobrain/karlo](https://github.com/kakaobrain/karlo) - 
 - [bryandlee/FreezeG](https://github.com/bryandlee/FreezeG) - Freezing generator for pseudo image translation
