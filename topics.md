@@ -294,7 +294,6 @@
 
 - [TypeError/secure](https://github.com/TypeError/secure) - Lightweight modern Python library to add security headers (CSP, HSTS, etc.) to Django, Flask, FastAPI, and more. Secure defaults or fully customizable.
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
-- [khw2ok/bongwonbot](https://github.com/khw2ok/bongwonbot) - 봉원중학교 카카오톡 챗봇
 
 ## flutter 
 
@@ -679,7 +678,6 @@
 - [identixone/fastapi_contrib](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities on top of FastAPI
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [florimondmanca/ddtrace-asgi](https://github.com/florimondmanca/ddtrace-asgi) - Unofficial Datadog tracing integration for ASGI apps and frameworks
-- [khw2ok/bongwonbot](https://github.com/khw2ok/bongwonbot) - 봉원중학교 카카오톡 챗봇
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source AI/ML Platform
 - [DS2BRAIN/ds2](https://github.com/DS2BRAIN/ds2) - Easiest way to use AI models without coding (Web UI & API support)
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
