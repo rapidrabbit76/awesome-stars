@@ -25,6 +25,7 @@
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
+- [database](#database)
 - [deep-learning](#deep-learning)
 - [deployment](#deployment)
 - [design](#design)
@@ -213,6 +214,10 @@
 ## data-structures 
 
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
+
+## database 
+
+- [yahoo/redislite](https://github.com/yahoo/redislite) - Redis in a python module.
 
 ## deep-learning 
 
@@ -640,6 +645,7 @@
 
 ## python 
 
+- [yahoo/redislite](https://github.com/yahoo/redislite) - Redis in a python module.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [TypeError/secure](https://github.com/TypeError/secure) - Lightweight modern Python library to add security headers (CSP, HSTS, etc.) to Django, Flask, FastAPI, and more. Secure defaults or fully customizable.
 - [olzhasar/pyws-chess](https://github.com/olzhasar/pyws-chess) - A real-time chess game built with asyncio, FastAPI and websockets
