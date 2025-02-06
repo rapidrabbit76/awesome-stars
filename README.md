@@ -138,6 +138,7 @@
 
 ## Python 
 
+- [yahoo/redislite](https://github.com/yahoo/redislite) - Redis in a python module.
 - [marcosvs98/cqrs-architecture-with-python](https://github.com/marcosvs98/cqrs-architecture-with-python) - Applying CQRS pattern with Python Fastapi.
 - [TypeError/secure](https://github.com/TypeError/secure) - Lightweight modern Python library to add security headers (CSP, HSTS, etc.) to Django, Flask, FastAPI, and more. Secure defaults or fully customizable.
 - [hi-primus/optimus](https://github.com/hi-primus/optimus) - :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark
