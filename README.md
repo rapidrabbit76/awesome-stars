@@ -235,7 +235,7 @@
 - [SkyTNT/anime-segmentation](https://github.com/SkyTNT/anime-segmentation) - high-accuracy segmentation for anime character
 - [kakaobrain/karlo](https://github.com/kakaobrain/karlo) - 
 - [bryandlee/FreezeG](https://github.com/bryandlee/FreezeG) - Freezing generator for pseudo image translation
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source AI/ML Platform
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Deploy and Manage AI/ML Systems
 - [adobe-research/custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023)
 - [pytorch/data](https://github.com/pytorch/data) - A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
 - [VoltaML/voltaML](https://github.com/VoltaML/voltaML) - ⚡VoltaML is a lightweight library to convert and run your ML/DL deep learning models in high performance inference runtimes like TensorRT, TorchScript, ONNX and TVM.
