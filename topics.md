@@ -482,6 +482,7 @@
 
 ## others 
 
+- [dirkjbreeuwer/gpt-automated-web-scraper](https://github.com/dirkjbreeuwer/gpt-automated-web-scraper) - The GPT-based Universal Web Scraper MVP is a solution that leverages GPT models and web scraping libraries to generate scraper code based on user input and website analysis, simplifying the web scrapi
 - [marcosvs98/cqrs-architecture-with-python](https://github.com/marcosvs98/cqrs-architecture-with-python) - Applying CQRS pattern with Python Fastapi.
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [PythonNest/PyNest](https://github.com/PythonNest/PyNest) - PyNest is a Python framework built on top of FastAPI that follows the modular architecture of NestJS
