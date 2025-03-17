@@ -82,6 +82,7 @@
 
 ## Jupyter Notebook 
 
+- [dirkjbreeuwer/gpt-automated-web-scraper](https://github.com/dirkjbreeuwer/gpt-automated-web-scraper) - The GPT-based Universal Web Scraper MVP is a solution that leverages GPT models and web scraping libraries to generate scraper code based on user input and website analysis, simplifying the web scrapi
 - [toUpperCase78/formula1-datasets](https://github.com/toUpperCase78/formula1-datasets) - Datasets & Analyses for Formula 1 World Championship
 - [naver-ai/DenseDiffusion](https://github.com/naver-ai/DenseDiffusion) - Official Pytorch Implementation of DenseDiffusion (ICCV 2023)
 - [binghe819/TIL](https://github.com/binghe819/TIL) - 📚 Today I Learned. 기록하자.
