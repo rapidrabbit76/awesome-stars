@@ -40,6 +40,7 @@
 
 ## C++ 
 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [System-SW/fair-udp](https://github.com/System-SW/fair-udp) - for fair udp simulation
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
 - [CoLuthien/REngine](https://github.com/CoLuthien/REngine) - 
