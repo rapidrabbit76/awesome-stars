@@ -94,6 +94,7 @@
 - [terminal](#terminal)
 - [testing](#testing)
 - [typescript](#typescript)
+- [ui](#ui)
 - [vim](#vim)
 - [vpn](#vpn)
 - [vuejs](#vuejs)
@@ -856,6 +857,10 @@
 ## typescript 
 
 - [banlife/class-enum](https://github.com/banlife/class-enum) - Extendable class-enum on typescript
+
+## ui 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## vim 
 
