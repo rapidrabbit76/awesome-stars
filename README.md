@@ -138,6 +138,7 @@
 
 ## Python 
 
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine.
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [yahoo/redislite](https://github.com/yahoo/redislite) - Redis in a python module.
 - [marcosvs98/cqrs-architecture-with-python](https://github.com/marcosvs98/cqrs-architecture-with-python) - Applying CQRS pattern with Python Fastapi.
