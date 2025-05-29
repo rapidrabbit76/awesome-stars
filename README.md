@@ -345,7 +345,7 @@
 
 ## Shell 
 
-- [vegardit/docker-traefik-logrotate](https://github.com/vegardit/docker-traefik-logrotate) - Lightweight Docker image to be used in conjunction with a dockerized Traefik instance to rotate Traefik's access logs.
+- [vegardit/docker-traefik-logrotate](https://github.com/vegardit/docker-traefik-logrotate) - Lightweight multi-arch Docker image to be used in conjunction with a dockerized Traefik instance to rotate Traefik's access logs.
 - [jordancrawfordnz/rpi-deluge-docker](https://github.com/jordancrawfordnz/rpi-deluge-docker) - A simple Deluge and Deluge Web image for the Raspberry Pi.
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 
