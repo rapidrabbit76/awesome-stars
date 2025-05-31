@@ -75,7 +75,6 @@
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
-- [r](#r)
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
@@ -760,10 +759,6 @@
 - [sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network | a PyTorch Tutorial to Super-Resolution
 - [Mukosame/Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) - Fast and Accurate One-Stage Space-Time Video Super-Resolution (accepted in CVPR 2020)
 - [FrancescoSaverioZuppichini/torchserve-tryout](https://github.com/FrancescoSaverioZuppichini/torchserve-tryout) - Deploy a CNN with torchserve using a custom handler
-
-## r 
-
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 
 ## react 
 
