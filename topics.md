@@ -27,6 +27,7 @@
 - [data-structures](#data-structures)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
 - [development](#development)
@@ -40,6 +41,8 @@
 - [flask](#flask)
 - [flutter](#flutter)
 - [framework](#framework)
+- [game-development](#game-development)
+- [godot](#godot)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
 - [image-processing](#image-processing)
@@ -78,6 +81,7 @@
 - [react-native](#react-native)
 - [reactjs](#reactjs)
 - [reinforcement-learning](#reinforcement-learning)
+- [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
@@ -93,6 +97,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [ui](#ui)
+- [unreal-engine](#unreal-engine)
 - [vim](#vim)
 - [vpn](#vpn)
 - [vuejs](#vuejs)
@@ -258,6 +263,10 @@
 - [tsc2017/Frechet-Inception-Distance](https://github.com/tsc2017/Frechet-Inception-Distance) - CPU/GPU/TPU implementation of the Fréchet Inception Distance
 - [art28/Classic-Deep-Learning-with-Tensorflow-Eager-Execution](https://github.com/art28/Classic-Deep-Learning-with-Tensorflow-Eager-Execution) - Classical deep learning paper implementation using tensorflow's eager execution
 
+## deno 
+
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source serverless platform. Easily deploy & scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere.
+
 ## deployment 
 
 - [jina-ai/fastapi-serve](https://github.com/jina-ai/fastapi-serve) - FastAPI to the Cloud, Batteries Included! ☁️🔋🚀
@@ -325,6 +334,14 @@
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [pystiche/pystiche](https://github.com/pystiche/pystiche) - Framework for Neural Style Transfer (NST) built upon PyTorch
+
+## game-development 
+
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source serverless platform. Easily deploy & scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere.
+
+## godot 
+
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source serverless platform. Easily deploy & scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere.
 
 ## hacktoberfest 
 
@@ -779,6 +796,10 @@
 - [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 
+## rust 
+
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source serverless platform. Easily deploy & scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere.
+
 ## security 
 
 - [TypeError/secure](https://github.com/TypeError/secure) - Lightweight modern Python library to add security headers (CSP, HSTS, etc.) to Django, Flask, FastAPI, and more. Secure defaults or fully customizable.
@@ -795,6 +816,7 @@
 
 ## serverless 
 
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source serverless platform. Easily deploy & scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere.
 - [umihico/docker-selenium-lambda](https://github.com/umihico/docker-selenium-lambda) - The simplest demo of chrome automation by python and selenium in AWS Lambda
 - [jina-ai/fastapi-serve](https://github.com/jina-ai/fastapi-serve) - FastAPI to the Cloud, Batteries Included! ☁️🔋🚀
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -859,6 +881,10 @@
 ## ui 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+## unreal-engine 
+
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source serverless platform. Easily deploy & scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere.
 
 ## vim 
 
