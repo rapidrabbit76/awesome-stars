@@ -423,6 +423,7 @@
 
 ## machine-learning 
 
+- [DorsaRoh/Machine-Learning](https://github.com/DorsaRoh/Machine-Learning) - ML from scratch
 - [hi-primus/optimus](https://github.com/hi-primus/optimus) - :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [rapidrabbit76/SketchColorization](https://github.com/rapidrabbit76/SketchColorization) - line drawing colorization using  pytorch
