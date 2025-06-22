@@ -528,6 +528,7 @@
 
 ## others 
 
+- [promplate/hmr](https://github.com/promplate/hmr) - Real Hot Module Reload for Python
 - [xavierchoi/Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer) - 
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - 
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
