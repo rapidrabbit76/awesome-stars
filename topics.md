@@ -540,6 +540,7 @@
 
 ## others 
 
+- [rubyon/easy_wg_mikrotik](https://github.com/rubyon/easy_wg_mikrotik) - 
 - [nikmcfly/ANUS](https://github.com/nikmcfly/ANUS) - 
 - [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset) - offset-free paging for sqlalchemy
 - [promplate/hmr](https://github.com/promplate/hmr) - True Hot Module Reload for Python (gracefully triggers side effects, too.)
