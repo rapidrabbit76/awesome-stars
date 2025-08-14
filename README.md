@@ -91,7 +91,7 @@
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [transpchan/Live3D-v2](https://github.com/transpchan/Live3D-v2) - Neural Rendering with Attention: An Incremental Improvement for Anime Character Animation
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
 - [dome272/Paella](https://github.com/dome272/Paella) - Official Implementation of Paella https://arxiv.org/abs/2211.07292v2
