@@ -108,7 +108,6 @@
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -960,10 +959,6 @@
 ## windows 
 
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
-
-## zsh 
-
-- [wookayin/dotfiles](https://github.com/wookayin/dotfiles) - :house: Personal dotfiles for *NIX systems
 
 
 ## License
