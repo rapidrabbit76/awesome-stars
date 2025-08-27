@@ -266,7 +266,7 @@
 - [DS2BRAIN/ds2](https://github.com/DS2BRAIN/ds2) - Easiest way to use AI models without coding (Web UI & API support)
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [ShannonAI/service-streamer](https://github.com/ShannonAI/service-streamer) - Boosting your Web Services of Deep Learning Applications.
 - [nocotan/pytorch-lightning-gans](https://github.com/nocotan/pytorch-lightning-gans) - Collection of PyTorch Lightning implementations of Generative Adversarial Network varieties presented in research papers.
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
@@ -379,7 +379,6 @@
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
 
 ## http 
 
@@ -542,7 +541,7 @@
 - [rubyon/easy_wg_mikrotik](https://github.com/rubyon/easy_wg_mikrotik) - 
 - [nikmcfly/ANUS](https://github.com/nikmcfly/ANUS) - 
 - [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset) - offset-free paging for sqlalchemy
-- [promplate/hmr](https://github.com/promplate/hmr) - True Hot Module Reload for Python (gracefully triggers side effects, too.)
+- [promplate/hmr](https://github.com/promplate/hmr) - Real Hot Module Reload for Python (gracefully triggers side effects as you wished.)
 - [xavierchoi/Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer) - 
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - 
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
@@ -798,7 +797,7 @@
 - [cloneofsimo/minDiffusion](https://github.com/cloneofsimo/minDiffusion) - Self-contained, minimalistic implementation of diffusion models with Pytorch.
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 - [rapidrabbit76/stable-diffusion-API](https://github.com/rapidrabbit76/stable-diffusion-API) - Unofficial Fastapi implementation of Stable-Diffusion API
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [ufoym/imbalanced-dataset-sampler](https://github.com/ufoym/imbalanced-dataset-sampler) - A (PyTorch) imbalanced dataset sampler for oversampling low frequent classes and undersampling high frequent ones.
 - [ShannonAI/service-streamer](https://github.com/ShannonAI/service-streamer) - Boosting your Web Services of Deep Learning Applications.
 - [nocotan/pytorch-lightning-gans](https://github.com/nocotan/pytorch-lightning-gans) - Collection of PyTorch Lightning implementations of Generative Adversarial Network varieties presented in research papers.
@@ -878,7 +877,7 @@
 - [haofanwang/Lora-for-Diffusers](https://github.com/haofanwang/Lora-for-Diffusers) - The most easy-to-understand tutorial for using LoRA (Low-Rank Adaptation) within diffusers framework for AI Generation Researchers🔥
 - [DS2BRAIN/ds2](https://github.com/DS2BRAIN/ds2) - Easiest way to use AI models without coding (Web UI & API support)
 - [rapidrabbit76/stable-diffusion-API](https://github.com/rapidrabbit76/stable-diffusion-API) - Unofficial Fastapi implementation of Stable-Diffusion API
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 
 ## svelte 
