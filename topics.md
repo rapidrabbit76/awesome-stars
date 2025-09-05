@@ -292,7 +292,7 @@
 
 ## deno 
 
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Scale and orchestrate RivetKit
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 
 ## deployment 
 
@@ -364,7 +364,7 @@
 
 ## game-development 
 
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Scale and orchestrate RivetKit
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 
 ## github 
 
@@ -372,7 +372,7 @@
 
 ## godot 
 
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Scale and orchestrate RivetKit
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 
 ## hacktoberfest 
 
@@ -717,6 +717,7 @@
 
 ## python 
 
+- [akamhy/videohash](https://github.com/akamhy/videohash) - Near Duplicate Video Detection (Perceptual Video Hashing) - Get a 64-bit comparable hash-value for any video.
 - [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
@@ -842,7 +843,7 @@
 
 ## rust 
 
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Scale and orchestrate RivetKit
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 
 ## security 
 
@@ -861,7 +862,7 @@
 
 ## serverless 
 
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Scale and orchestrate RivetKit
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 - [umihico/docker-selenium-lambda](https://github.com/umihico/docker-selenium-lambda) - The simplest demo of chrome automation by python and selenium in AWS Lambda
 - [jina-ai/fastapi-serve](https://github.com/jina-ai/fastapi-serve) - FastAPI to the Cloud, Batteries Included! ☁️🔋🚀
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -929,7 +930,7 @@
 
 ## unreal-engine 
 
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Scale and orchestrate RivetKit
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 
 ## vim 
 
