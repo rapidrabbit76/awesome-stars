@@ -146,7 +146,6 @@
 - [akamhy/videohash](https://github.com/akamhy/videohash) - Near Duplicate Video Detection (Perceptual Video Hashing) - Get a 64-bit comparable hash-value for any video.
 - [jzelenkov/macos-gemini-overlay](https://github.com/jzelenkov/macos-gemini-overlay) - A simple macOS overlay application for pinning 'gemini.google.com' to a dedicated window and key command.
 - [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
-- [nikmcfly/ANUS](https://github.com/nikmcfly/ANUS) - 
 - [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset) - offset-free paging for sqlalchemy
 - [promplate/hmr](https://github.com/promplate/hmr) - Real Hot Module Reload for Python (gracefully triggers side effects as you wished.)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
@@ -367,6 +366,7 @@
 ## TypeScript 
 
 - [allweonedev/presentation-ai](https://github.com/allweonedev/presentation-ai) - Open source AI presentation generator. Create professional slides with customizable themes and AI-generated content in minutes.
+- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 - [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
