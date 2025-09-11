@@ -634,7 +634,7 @@
 - [jowilf/starlette-admin-demo](https://github.com/jowilf/starlette-admin-demo) - A demo project to showcase Starlette Admin features
 - [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
 - [yfszzx/stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) - an images browse for stable-diffusion-webui
-- [odegeasslbc/FastGAN-pytorch](https://github.com/odegeasslbc/FastGAN-pytorch) - Official implementation of the paper "Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis" in ICLR 2021
+- [bingchenlll/FastGAN-pytorch](https://github.com/bingchenlll/FastGAN-pytorch) - Official implementation of the paper "Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis" in ICLR 2021
 - [FinanceData/FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Financial data reader
 - [justinpinkney/stable-diffusion](https://github.com/justinpinkney/stable-diffusion) - 
 - [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme from Read the Docs
