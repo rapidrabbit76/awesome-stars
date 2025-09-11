@@ -264,7 +264,7 @@
 - [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
 - [yfszzx/stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) - an images browse for stable-diffusion-webui
 - [cloneofsimo/minDiffusion](https://github.com/cloneofsimo/minDiffusion) - Self-contained, minimalistic implementation of diffusion models with Pytorch.
-- [odegeasslbc/FastGAN-pytorch](https://github.com/odegeasslbc/FastGAN-pytorch) - Official implementation of the paper "Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis" in ICLR 2021
+- [bingchenlll/FastGAN-pytorch](https://github.com/bingchenlll/FastGAN-pytorch) - Official implementation of the paper "Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis" in ICLR 2021
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [juliotrigo/sqlalchemy-filters](https://github.com/juliotrigo/sqlalchemy-filters) - Filter, sort and paginate SQLAlchemy query objects. Ideal for exposing these actions over a REST API.
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
