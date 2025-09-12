@@ -543,6 +543,7 @@
 
 ## others 
 
+- [KRFOSS/bypassQoSKoreatelecomISP](https://github.com/KRFOSS/bypassQoSKoreatelecomISP) - KT GiGA 인터넷의 일일 150GB QoS제한 우회 팁
 - [jzelenkov/macos-gemini-overlay](https://github.com/jzelenkov/macos-gemini-overlay) - A simple macOS overlay application for pinning 'gemini.google.com' to a dedicated window and key command.
 - [rubyon/easy_wg_mikrotik](https://github.com/rubyon/easy_wg_mikrotik) - 
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
@@ -843,6 +844,7 @@
 
 ## rust 
 
+- [dilluti0n/dpibreak](https://github.com/dilluti0n/dpibreak) - Simple and efficient DPI circumvention tool in Rust. Supports Linux and Windows.
 - [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 
 ## security 
