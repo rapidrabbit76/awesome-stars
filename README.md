@@ -124,7 +124,7 @@
 ## Others 
 
 - [xavierchoi/Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer) - 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
 - [boost-devs/ai-tech-interview](https://github.com/boost-devs/ai-tech-interview) - 👩‍💻👨‍💻 AI 엔지니어 기술 면접 스터디 (⭐️ 2k+)
 - [zcop/Asrock-DeskMini-X300-5600G](https://github.com/zcop/Asrock-DeskMini-X300-5600G) - Asrock DeskMini X300 with Ryzen 5 5600G running MacOS Sonoma 14.1.1
 - [emintham/Papers](https://github.com/emintham/Papers) - Collection of papers read
