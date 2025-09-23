@@ -149,7 +149,7 @@
 ## Python 
 
 - [akamhy/videohash](https://github.com/akamhy/videohash) - Near Duplicate Video Detection (Perceptual Video Hashing) - Get a 64-bit comparable hash-value for any video.
-- [jzelenkov/macos-gemini-overlay](https://github.com/jzelenkov/macos-gemini-overlay) - A simple macOS overlay application for pinning 'gemini.google.com' to a dedicated window and key command.
+- [jayzelenkov/macos-gemini-overlay](https://github.com/jayzelenkov/macos-gemini-overlay) - A simple macOS overlay application for pinning 'gemini.google.com' to a dedicated window and key command.
 - [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
 - [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset) - offset-free paging for sqlalchemy
 - [promplate/hmr](https://github.com/promplate/hmr) - Real Hot Module Reload for Python (gracefully triggers side effects as you wished.)
