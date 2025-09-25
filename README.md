@@ -259,7 +259,7 @@
 - [bryandlee/FreezeG](https://github.com/bryandlee/FreezeG) - Freezing generator for pseudo image translation
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 - [adobe-research/custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023)
-- [pytorch/data](https://github.com/pytorch/data) - A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
+- [meta-pytorch/data](https://github.com/meta-pytorch/data) - A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
 - [VoltaML/voltaML](https://github.com/VoltaML/voltaML) - ⚡VoltaML is a lightweight library to convert and run your ML/DL deep learning models in high performance inference runtimes like TensorRT, TorchScript, ONNX and TVM.
 - [Runnerly/microservice](https://github.com/Runnerly/microservice) - skeleton
 - [softwarebloat/python-tracing-demo](https://github.com/softwarebloat/python-tracing-demo) - Demo for tracing in a FastAPI python project using OpenTelemetry and Grafana Tempo
