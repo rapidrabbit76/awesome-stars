@@ -20,6 +20,7 @@
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
+- [cloud](#cloud)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -31,7 +32,6 @@
 - [data-structures](#data-structures)
 - [database](#database)
 - [deep-learning](#deep-learning)
-- [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
 - [development](#development)
@@ -45,9 +45,7 @@
 - [flask](#flask)
 - [flutter](#flutter)
 - [framework](#framework)
-- [game-development](#game-development)
 - [github](#github)
-- [godot](#godot)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
 - [image-processing](#image-processing)
@@ -102,7 +100,6 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [ui](#ui)
-- [unreal-engine](#unreal-engine)
 - [vim](#vim)
 - [vpn](#vpn)
 - [vuejs](#vuejs)
@@ -203,6 +200,10 @@
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 
+## cloud 
+
+- [jina-ai/fastapi-serve](https://github.com/jina-ai/fastapi-serve) - FastAPI to the Cloud, Batteries Included! ☁️🔋🚀
+
 ## compiler 
 
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
@@ -290,10 +291,6 @@
 - [tsc2017/Frechet-Inception-Distance](https://github.com/tsc2017/Frechet-Inception-Distance) - CPU/GPU/TPU implementation of the Fréchet Inception Distance
 - [art28/Classic-Deep-Learning-with-Tensorflow-Eager-Execution](https://github.com/art28/Classic-Deep-Learning-with-Tensorflow-Eager-Execution) - Classical deep learning paper implementation using tensorflow's eager execution
 
-## deno 
-
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
-
 ## deployment 
 
 - [jina-ai/fastapi-serve](https://github.com/jina-ai/fastapi-serve) - FastAPI to the Cloud, Batteries Included! ☁️🔋🚀
@@ -363,17 +360,9 @@
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [pystiche/pystiche](https://github.com/pystiche/pystiche) - Framework for Neural Style Transfer (NST) built upon PyTorch
 
-## game-development 
-
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
-
 ## github 
 
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-
-## godot 
-
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 
 ## hacktoberfest 
 
@@ -627,7 +616,7 @@
 - [dome272/Paella](https://github.com/dome272/Paella) - Official Implementation of Paella https://arxiv.org/abs/2211.07292v2
 - [kakaobrain/karlo](https://github.com/kakaobrain/karlo) - 
 - [bryandlee/FreezeG](https://github.com/bryandlee/FreezeG) - Freezing generator for pseudo image translation
-- [pytorch/data](https://github.com/pytorch/data) - A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
+- [meta-pytorch/data](https://github.com/meta-pytorch/data) - A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
 - [VoltaML/voltaML](https://github.com/VoltaML/voltaML) - ⚡VoltaML is a lightweight library to convert and run your ML/DL deep learning models in high performance inference runtimes like TensorRT, TorchScript, ONNX and TVM.
 - [Runnerly/microservice](https://github.com/Runnerly/microservice) - skeleton
 - [ridimillie/ridimillie-frontend](https://github.com/ridimillie/ridimillie-frontend) - 이책저책 :: 당신이 찾는 모든 E-Book
@@ -936,10 +925,6 @@
 ## ui 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-## unreal-engine 
-
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 
 ## vim 
 
