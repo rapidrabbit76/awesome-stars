@@ -318,7 +318,7 @@
 - [huangzh13/StyleGAN.pytorch](https://github.com/huangzh13/StyleGAN.pytorch) - A PyTorch implementation for StyleGAN with full features.
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [run-youngjoo/SC-FEGAN](https://github.com/run-youngjoo/SC-FEGAN) - SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color (ICCV2019)
 - [facebookresearch/ic_gan](https://github.com/facebookresearch/ic_gan) - Official repository for the paper "Instance-Conditioned GAN" by Arantxa Casanova, Marlene Careil, Jakob Verbeek, Michał Drożdżal, Adriana Romero-Soriano.
 - [taesungp/swapping-autoencoder-pytorch](https://github.com/taesungp/swapping-autoencoder-pytorch) - Official Implementation of Swapping Autoencoder for Deep Image Manipulation (NeurIPS 2020)
