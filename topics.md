@@ -841,7 +841,7 @@
 
 ## rust 
 
-- [dilluti0n/dpibreak](https://github.com/dilluti0n/dpibreak) - Simple and efficient DPI circumvention tool in Rust. Supports Linux and Windows.
+- [dilluti0n/dpibreak](https://github.com/dilluti0n/dpibreak) - Simple and efficient DPI circumvention tool. Supports Linux and Windows.
 - [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 
 ## security 
