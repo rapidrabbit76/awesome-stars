@@ -106,6 +106,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## ai 
@@ -562,7 +563,6 @@
 - [jordancrawfordnz/rpi-deluge-docker](https://github.com/jordancrawfordnz/rpi-deluge-docker) - A simple Deluge and Deluge Web image for the Raspberry Pi.
 - [uriyyo/fastapi-lifespan-manager](https://github.com/uriyyo/fastapi-lifespan-manager) - FastAPI LifespanManager 🧑‍⚖️
 - [permitio/fastapi_websocket_pubsub](https://github.com/permitio/fastapi_websocket_pubsub) - A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub ==  ⚡ 💪 ❤️
-- [pming-kr/pming-content](https://github.com/pming-kr/pming-content) - 😃 좋은 컨텐츠를 기고받는 저장소 입니다
 - [tiangolo/rye](https://github.com/tiangolo/rye) - An Experimental Package Management Solution for Python
 - [qu3vipon/python-ddd](https://github.com/qu3vipon/python-ddd) - Python Domain-Driven-Design(DDD) Example
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
@@ -962,6 +962,10 @@
 ## windows 
 
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
+
+## youtube 
+
+- [pming-kr/pming-content](https://github.com/pming-kr/pming-content) - 😃 좋은 컨텐츠를 기고받는 저장소 입니다
 
 ## zsh 
 
