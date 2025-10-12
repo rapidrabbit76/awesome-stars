@@ -560,7 +560,7 @@
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [rlawjdghek/StableVITON](https://github.com/rlawjdghek/StableVITON) - [CVPR2024] StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On
 - [zcop/Asrock-DeskMini-X300-5600G](https://github.com/zcop/Asrock-DeskMini-X300-5600G) - Asrock DeskMini X300 with Ryzen 5 5600G running MacOS Sonoma 14.1.1
-- [jordancrawfordnz/rpi-deluge-docker](https://github.com/jordancrawfordnz/rpi-deluge-docker) - A simple Deluge and Deluge Web image for the Raspberry Pi.
+- [jordancrawford/rpi-deluge-docker](https://github.com/jordancrawford/rpi-deluge-docker) - A simple Deluge and Deluge Web image for the Raspberry Pi.
 - [uriyyo/fastapi-lifespan-manager](https://github.com/uriyyo/fastapi-lifespan-manager) - FastAPI LifespanManager 🧑‍⚖️
 - [permitio/fastapi_websocket_pubsub](https://github.com/permitio/fastapi_websocket_pubsub) - A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub ==  ⚡ 💪 ❤️
 - [tiangolo/rye](https://github.com/tiangolo/rye) - An Experimental Package Management Solution for Python
