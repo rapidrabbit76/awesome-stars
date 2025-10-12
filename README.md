@@ -370,7 +370,7 @@
 - [veilRedeemer/bypassQoSKoreatelecomISP](https://github.com/veilRedeemer/bypassQoSKoreatelecomISP) - KT GiGA 인터넷의 일일 150GB QoS제한 우회 팁
 - [KRFOSS/bypassQoSKoreatelecomISP](https://github.com/KRFOSS/bypassQoSKoreatelecomISP) - KT GiGA 인터넷의 일일 150GB QoS제한 우회 팁
 - [vegardit/docker-traefik-logrotate](https://github.com/vegardit/docker-traefik-logrotate) - Lightweight multi-arch Docker image to be used in conjunction with a dockerized Traefik instance to rotate Traefik's access logs.
-- [jordancrawfordnz/rpi-deluge-docker](https://github.com/jordancrawfordnz/rpi-deluge-docker) - A simple Deluge and Deluge Web image for the Raspberry Pi.
+- [jordancrawford/rpi-deluge-docker](https://github.com/jordancrawford/rpi-deluge-docker) - A simple Deluge and Deluge Web image for the Raspberry Pi.
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 
 ## TypeScript 
