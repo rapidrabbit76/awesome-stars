@@ -151,7 +151,7 @@
 - [jayzelenkov/macos-gemini-overlay](https://github.com/jayzelenkov/macos-gemini-overlay) - A simple macOS overlay application for pinning 'gemini.google.com' to a dedicated window and key command.
 - [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
 - [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset) - offset-free paging for sqlalchemy
-- [promplate/hmr](https://github.com/promplate/hmr) - Real Hot Module Reload for Python (gracefully triggers side effects as you wished.)
+- [promplate/hmr](https://github.com/promplate/hmr) - Real Hot Module Reload for Python (with side effects reactively triggered gracefully.)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
