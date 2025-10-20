@@ -721,7 +721,7 @@
 
 - [akamhy/videohash](https://github.com/akamhy/videohash) - Near Duplicate Video Detection (Perceptual Video Hashing) - Get a 64-bit comparable hash-value for any video.
 - [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
-- [promplate/hmr](https://github.com/promplate/hmr) - Real Hot Module Reload for Python (gracefully triggers side effects as you wished.)
+- [promplate/hmr](https://github.com/promplate/hmr) - Real Hot Module Reload for Python (with side effects reactively triggered gracefully.)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [yahoo/redislite](https://github.com/yahoo/redislite) - Redis in a python module.
