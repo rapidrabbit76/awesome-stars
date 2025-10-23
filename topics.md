@@ -847,8 +847,8 @@
 
 ## rust 
 
-- [dilluti0n/dpibreak](https://github.com/dilluti0n/dpibreak) - Simple and efficient DPI circumvention tool. Supports Linux and Windows.
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
+- [dilluti0n/dpibreak](https://github.com/dilluti0n/dpibreak) - Simple and efficient DPI circumvention tool for Linux and Windows.
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - An open-source library for long-lived processes with realtime, persistence, and hibernation
 
 ## security 
 
@@ -868,7 +868,7 @@
 
 ## serverless 
 
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - An open-source library for long-lived processes with realtime, persistence, and hibernation
 - [umihico/docker-selenium-lambda](https://github.com/umihico/docker-selenium-lambda) - The simplest demo of chrome automation by python and selenium in AWS Lambda
 - [jina-ai/fastapi-serve](https://github.com/jina-ai/fastapi-serve) - FastAPI to the Cloud, Batteries Included! ☁️🔋🚀
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
