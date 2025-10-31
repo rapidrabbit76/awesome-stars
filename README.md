@@ -229,7 +229,7 @@
 - [tobran/GALIP](https://github.com/tobran/GALIP) - [CVPR2023] A faster, smaller, and better text-to-image model for large-scale training
 - [kekmodel/MPL-pytorch](https://github.com/kekmodel/MPL-pytorch) - Unofficial PyTorch implementation of "Meta Pseudo Labels"
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [p1atdev/stable-diffusion-webui-adverse-cleaner-tab](https://github.com/p1atdev/stable-diffusion-webui-adverse-cleaner-tab) - An extension of AUTOMATIC1111's webui to remove adverse noise from images.
 - [mkshing/e4t-diffusion](https://github.com/mkshing/e4t-diffusion) - Implementation of Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models
@@ -374,6 +374,7 @@
 
 ## TypeScript 
 
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
 - [allweonedev/presentation-ai](https://github.com/allweonedev/presentation-ai) - ALLWEONE® Open source AI presentation generator Gamma Alternative. Create professional slides with customizable themes and AI-generated content in minutes.
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
