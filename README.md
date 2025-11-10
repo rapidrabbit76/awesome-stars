@@ -355,7 +355,6 @@
 - [dilluti0n/dpibreak](https://github.com/dilluti0n/dpibreak) - Simple and efficient DPI circumvention tool for Linux and Windows.
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - An open-source library for long-lived processes with realtime, persistence, and hibernation
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [tiangolo/rye](https://github.com/tiangolo/rye) - An Experimental Package Management Solution for Python
 
 ## Sass 
 
