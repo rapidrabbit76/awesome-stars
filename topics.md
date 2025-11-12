@@ -136,7 +136,7 @@
 
 ## android 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## api 
 
@@ -186,7 +186,7 @@
 ## backend 
 
 - [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## c 
 
@@ -325,7 +325,7 @@
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [jina-ai/fastapi-serve](https://github.com/jina-ai/fastapi-serve) - FastAPI to the Cloud, Batteries Included! ☁️🔋🚀
 - [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 
 ## documentation 
@@ -347,7 +347,7 @@
 
 ## firebase 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## flask 
 
@@ -356,7 +356,7 @@
 
 ## flutter 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## framework 
 
@@ -396,7 +396,7 @@
 
 ## ios 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## java 
 
@@ -407,7 +407,7 @@
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## json 
 
@@ -507,7 +507,7 @@
 
 ## nextjs 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [uyu423/resume-nextjs](https://github.com/uyu423/resume-nextjs) - Next.js 로 누구나 쉽게 만드는 Static HTML 이력서
 
 ## nlp 
@@ -553,7 +553,7 @@
 - [rubyon/easy_wg_mikrotik](https://github.com/rubyon/easy_wg_mikrotik) - 
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 - [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset) - offset-free paging for sqlalchemy
-- [promplate/hmr](https://github.com/promplate/hmr) - Real Hot Module Reload for Python (with side effects reactively triggered gracefully.)
+- [promplate/hmr](https://github.com/promplate/hmr) - Real hot-module reload for Python—side effects handled reactively.
 - [xavierchoi/Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer) - 
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - 
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
@@ -829,12 +829,12 @@
 ## react 
 
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [andfanilo/streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas) - Do you like Quick, Draw? Well what if you could train/predict doodles drawn inside Streamlit? Also draws lines, circles and boxes over background images for annotation.
 
 ## react-native 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## reactjs 
 
@@ -860,7 +860,7 @@
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## server 
 
@@ -871,7 +871,7 @@
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - An open-source library for long-lived processes with realtime, persistence, and hibernation
 - [umihico/docker-selenium-lambda](https://github.com/umihico/docker-selenium-lambda) - The simplest demo of chrome automation by python and selenium in AWS Lambda
 - [jina-ai/fastapi-serve](https://github.com/jina-ai/fastapi-serve) - FastAPI to the Cloud, Batteries Included! ☁️🔋🚀
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## sql 
 
@@ -899,7 +899,7 @@
 
 ## swift 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## tailwindcss 
 
@@ -953,7 +953,7 @@
 ## web 
 
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
