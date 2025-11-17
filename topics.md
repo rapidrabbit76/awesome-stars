@@ -580,7 +580,7 @@
 - [amisadmin/fastapi-amis-admin-demo](https://github.com/amisadmin/fastapi-amis-admin-demo) - An example fastapi-amis-admin application
 - [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py) - High level Python client for OpenSearch (deprecated, moved to opensearch-py)
 - [System-SW/fair-udp](https://github.com/System-SW/fair-udp) - for fair udp simulation
-- [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
+- [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
