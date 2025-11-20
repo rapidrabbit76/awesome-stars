@@ -553,7 +553,7 @@
 - [rubyon/easy_wg_mikrotik](https://github.com/rubyon/easy_wg_mikrotik) - 
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 - [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset) - offset-free paging for sqlalchemy
-- [promplate/hmr](https://github.com/promplate/hmr) - Real hot-module reload for Python—side effects handled reactively.
+- [promplate/hmr](https://github.com/promplate/hmr) - Real hot-module reload for Python—side effects handled reactively. https://py3.online/hmr
 - [xavierchoi/Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer) - 
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - 
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
