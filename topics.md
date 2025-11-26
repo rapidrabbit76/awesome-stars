@@ -47,6 +47,7 @@
 - [flutter](#flutter)
 - [framework](#framework)
 - [github](#github)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
 - [image-processing](#image-processing)
@@ -373,6 +374,11 @@
 ## github 
 
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
+
+## gui 
+
+- [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 
 ## hacktoberfest 
 
