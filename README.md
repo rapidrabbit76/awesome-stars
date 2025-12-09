@@ -59,6 +59,7 @@
 
 ## Go 
 
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 
 ## HCL 
@@ -127,7 +128,7 @@
 ## Others 
 
 - [xavierchoi/Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer) - 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [boost-devs/ai-tech-interview](https://github.com/boost-devs/ai-tech-interview) - 👩‍💻👨‍💻 AI 엔지니어 기술 면접 스터디 (⭐️ 2k+)
 - [zcop/Asrock-DeskMini-X300-5600G](https://github.com/zcop/Asrock-DeskMini-X300-5600G) - Asrock DeskMini X300 with Ryzen 5 5600G running MacOS Sonoma 14.1.1
 - [emintham/Papers](https://github.com/emintham/Papers) - Collection of papers read
@@ -351,6 +352,7 @@
 
 ## Rust 
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [dilluti0n/dpibreak](https://github.com/dilluti0n/dpibreak) - Simple and efficient DPI circumvention tool for Linux and Windows.
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors: long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
