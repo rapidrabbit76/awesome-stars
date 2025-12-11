@@ -48,6 +48,7 @@
 - [flask](#flask)
 - [flutter](#flutter)
 - [framework](#framework)
+- [generative-ai](#generative-ai)
 - [github](#github)
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
@@ -326,7 +327,7 @@
 
 ## django 
 
-- [TypeError/secure](https://github.com/TypeError/secure) - Lightweight modern Python library to add security headers (CSP, HSTS, etc.) to Django, Flask, FastAPI, and more. Secure defaults or fully customizable.
+- [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers (CSP, HSTS, etc.) with secure defaults and presets for FastAPI, Django, Flask, and other ASGI/WSGI apps.
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 
 ## docker 
@@ -363,7 +364,7 @@
 
 ## flask 
 
-- [TypeError/secure](https://github.com/TypeError/secure) - Lightweight modern Python library to add security headers (CSP, HSTS, etc.) to Django, Flask, FastAPI, and more. Secure defaults or fully customizable.
+- [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers (CSP, HSTS, etc.) with secure defaults and presets for FastAPI, Django, Flask, and other ASGI/WSGI apps.
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
 
 ## flutter 
@@ -381,6 +382,14 @@
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [pystiche/pystiche](https://github.com/pystiche/pystiche) - Framework for Neural Style Transfer (NST) built upon PyTorch
+
+## generative-ai 
+
+- [allweonedev/presentation-ai](https://github.com/allweonedev/presentation-ai) - ALLWEONE® Open source AI presentation generator Gamma Alternative. Create professional slides with customizable themes and AI-generated content in minutes.
+- [teddylee777/langchain-kr](https://github.com/teddylee777/langchain-kr) - LangChain 공식 Document, Cookbook, 그 밖의 실용 예제를 바탕으로 작성한 한국어 튜토리얼입니다. 본 튜토리얼을 통해 LangChain을 더 쉽고 효과적으로 사용하는 방법을 배울 수 있습니다.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 
 ## github 
 
@@ -581,7 +590,7 @@
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [PythonNest/PyNest](https://github.com/PythonNest/PyNest) - PyNest is a Python framework built on top of FastAPI that follows the modular architecture of NestJS
 - [dimz119/learn-ansible](https://github.com/dimz119/learn-ansible) - 
-- [blueswen/fastapi-observability](https://github.com/blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
+- [blueswen/fastapi-observability](https://github.com/blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry.
 - [vegardit/docker-traefik-logrotate](https://github.com/vegardit/docker-traefik-logrotate) - Lightweight multi-arch Docker image to be used in conjunction with a dockerized Traefik instance to rotate Traefik's access logs.
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [rlawjdghek/StableVITON](https://github.com/rlawjdghek/StableVITON) - [CVPR2024] StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On
@@ -744,7 +753,7 @@
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [yahoo/redislite](https://github.com/yahoo/redislite) - Redis in a python module.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [TypeError/secure](https://github.com/TypeError/secure) - Lightweight modern Python library to add security headers (CSP, HSTS, etc.) to Django, Flask, FastAPI, and more. Secure defaults or fully customizable.
+- [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers (CSP, HSTS, etc.) with secure defaults and presets for FastAPI, Django, Flask, and other ASGI/WSGI apps.
 - [olzhasar/pyws-chess](https://github.com/olzhasar/pyws-chess) - A real-time chess game built with asyncio, FastAPI and websockets
 - [umihico/docker-selenium-lambda](https://github.com/umihico/docker-selenium-lambda) - The simplest demo of chrome automation by python and selenium in AWS Lambda
 - [toUpperCase78/formula1-datasets](https://github.com/toUpperCase78/formula1-datasets) - Datasets & Analyses for Formula 1 World Championship
@@ -876,7 +885,7 @@
 
 ## security 
 
-- [TypeError/secure](https://github.com/TypeError/secure) - Lightweight modern Python library to add security headers (CSP, HSTS, etc.) to Django, Flask, FastAPI, and more. Secure defaults or fully customizable.
+- [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers (CSP, HSTS, etc.) with secure defaults and presets for FastAPI, Django, Flask, and other ASGI/WSGI apps.
 
 ## self-hosted 
 
