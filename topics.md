@@ -327,7 +327,7 @@
 
 ## django 
 
-- [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers (CSP, HSTS, etc.) with secure defaults and presets for FastAPI, Django, Flask, and other ASGI/WSGI apps.
+- [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers (CSP, HSTS, etc.) with secure defaults and presets for Shiny, FastAPI, Django, Flask, and other ASGI/WSGI apps.
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 
 ## docker 
@@ -364,7 +364,7 @@
 
 ## flask 
 
-- [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers (CSP, HSTS, etc.) with secure defaults and presets for FastAPI, Django, Flask, and other ASGI/WSGI apps.
+- [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers (CSP, HSTS, etc.) with secure defaults and presets for Shiny, FastAPI, Django, Flask, and other ASGI/WSGI apps.
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
 
 ## flutter 
@@ -753,7 +753,7 @@
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [yahoo/redislite](https://github.com/yahoo/redislite) - Redis in a python module.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers (CSP, HSTS, etc.) with secure defaults and presets for FastAPI, Django, Flask, and other ASGI/WSGI apps.
+- [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers (CSP, HSTS, etc.) with secure defaults and presets for Shiny, FastAPI, Django, Flask, and other ASGI/WSGI apps.
 - [olzhasar/pyws-chess](https://github.com/olzhasar/pyws-chess) - A real-time chess game built with asyncio, FastAPI and websockets
 - [umihico/docker-selenium-lambda](https://github.com/umihico/docker-selenium-lambda) - The simplest demo of chrome automation by python and selenium in AWS Lambda
 - [toUpperCase78/formula1-datasets](https://github.com/toUpperCase78/formula1-datasets) - Datasets & Analyses for Formula 1 World Championship
@@ -885,7 +885,7 @@
 
 ## security 
 
-- [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers (CSP, HSTS, etc.) with secure defaults and presets for FastAPI, Django, Flask, and other ASGI/WSGI apps.
+- [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers (CSP, HSTS, etc.) with secure defaults and presets for Shiny, FastAPI, Django, Flask, and other ASGI/WSGI apps.
 
 ## self-hosted 
 
