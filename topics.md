@@ -66,6 +66,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [material-design](#material-design)
+- [microservices](#microservices)
 - [mongodb](#mongodb)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
@@ -507,6 +508,10 @@
 ## material-design 
 
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+
+## microservices 
+
+- [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 
 ## mongodb 
 
