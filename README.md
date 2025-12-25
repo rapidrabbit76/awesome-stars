@@ -75,6 +75,7 @@
 
 ## Java 
 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [indix/mlflow-gocd](https://github.com/indix/mlflow-gocd) - GoCD plugins to work with MLFlow as model repository in a CD flow
 
 ## JavaScript 
@@ -154,7 +155,7 @@
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
-- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - 
+- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [yahoo/redislite](https://github.com/yahoo/redislite) - Redis in a python module.
@@ -384,7 +385,6 @@
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 - [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [uyu423/resume-nextjs](https://github.com/uyu423/resume-nextjs) - Next.js 로 누구나 쉽게 만드는 Static HTML 이력서
