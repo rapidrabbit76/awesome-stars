@@ -75,7 +75,6 @@
 
 ## Java 
 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [indix/mlflow-gocd](https://github.com/indix/mlflow-gocd) - GoCD plugins to work with MLFlow as model repository in a CD flow
 
 ## JavaScript 
@@ -386,6 +385,7 @@
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 - [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [uyu423/resume-nextjs](https://github.com/uyu423/resume-nextjs) - Next.js 로 누구나 쉽게 만드는 Static HTML 이력서
