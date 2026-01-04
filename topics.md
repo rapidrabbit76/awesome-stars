@@ -66,6 +66,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [mongodb](#mongodb)
 - [mysql](#mysql)
@@ -508,6 +509,12 @@
 
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 
+## mcp 
+
+- [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
+- [promplate/hmr](https://github.com/promplate/hmr) - Real hot-module reload for Python—side effects handled reactively. https://py3.online/hmr
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
 ## microservices 
 
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
@@ -585,7 +592,6 @@
 - [rubyon/easy_wg_mikrotik](https://github.com/rubyon/easy_wg_mikrotik) - 
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 - [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset) - offset-free paging for sqlalchemy
-- [promplate/hmr](https://github.com/promplate/hmr) - Real hot-module reload for Python—side effects handled reactively. https://py3.online/hmr
 - [xavierchoi/Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer) - 
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
