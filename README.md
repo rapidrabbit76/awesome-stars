@@ -82,7 +82,6 @@
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [olzhasar/pyws-chess](https://github.com/olzhasar/pyws-chess) - A real-time chess game built with asyncio, FastAPI and websockets
 - [pming-kr/pming-content](https://github.com/pming-kr/pming-content) - 😃 좋은 컨텐츠를 기고받는 저장소 입니다
-- [BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub) - 백준 자동 푸시 익스텐션(Auto Git Push for BOJ)
 - [jojoldu/junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler) - 주니어 개발자 채용 정보
 - [velopert/velog](https://github.com/velopert/velog) - 
 
@@ -384,6 +383,7 @@
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
+- [BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub) - 백준 자동 푸시 익스텐션(Auto Git Push for BOJ)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [uyu423/resume-nextjs](https://github.com/uyu423/resume-nextjs) - Next.js 로 누구나 쉽게 만드는 Static HTML 이력서
 - [ridimillie/ridimillie-frontend](https://github.com/ridimillie/ridimillie-frontend) - 이책저책 :: 당신이 찾는 모든 E-Book
