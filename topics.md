@@ -592,6 +592,7 @@
 
 ## others 
 
+- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
 - [svrforum/FileHatch](https://github.com/svrforum/FileHatch) - 
 - [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core) - A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations.
 - [veilRedeemer/bypassQoSKoreatelecomISP](https://github.com/veilRedeemer/bypassQoSKoreatelecomISP) - KT GiGA 인터넷의 일일 150GB QoS제한 우회 팁
