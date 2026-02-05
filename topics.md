@@ -592,6 +592,7 @@
 
 ## others 
 
+- [unraid/apprise-go](https://github.com/unraid/apprise-go) - Apprise, Ported to Go
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
 - [svrforum/FileHatch](https://github.com/svrforum/FileHatch) - 
 - [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core) - A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations.
