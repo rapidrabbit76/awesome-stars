@@ -596,6 +596,8 @@
 
 ## others 
 
+- [NikkeTryHard/zerogravity](https://github.com/NikkeTryHard/zerogravity) - OpenAI, Anthropic, and Gemini-compatible proxy that looks like real Antigravity traffic to Google.
+- [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
 - [unraid/apprise-go](https://github.com/unraid/apprise-go) - Apprise, Ported to Go
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
 - [svrforum/FileHatch](https://github.com/svrforum/FileHatch) - 
