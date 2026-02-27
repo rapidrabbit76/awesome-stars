@@ -607,6 +607,8 @@
 
 ## others 
 
+- [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
+- [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - A Claude Code skill that turns PDFs, docs, and codebases into Obsidian study vaults
 - [NikkeTryHard/zerogravity](https://github.com/NikkeTryHard/zerogravity) - OpenAI, Anthropic, and Gemini-compatible proxy that looks like real Antigravity traffic to Google.
 - [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
 - [unraid/apprise-go](https://github.com/unraid/apprise-go) - Apprise, Ported to Go
