@@ -184,12 +184,14 @@
 
 ## awesome 
 
+- [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 
 ## awesome-list 
 
+- [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 
@@ -607,6 +609,7 @@
 
 ## others 
 
+- [happycastle114/oh-my-openclaw](https://github.com/happycastle114/oh-my-openclaw) - oh-my-opencode patterns ported to OpenClaw
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - A Claude Code skill that turns PDFs, docs, and codebases into Obsidian study vaults
 - [NikkeTryHard/zerogravity](https://github.com/NikkeTryHard/zerogravity) - OpenAI, Anthropic, and Gemini-compatible proxy that looks like real Antigravity traffic to Google.
