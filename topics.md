@@ -132,7 +132,7 @@
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find the fastest coding LLM models in seconds
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
-- [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber) - Desktop and web interface for OpenCode AI agent
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
 - [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [allweonedev/presentation-ai](https://github.com/allweonedev/presentation-ai) - ALLWEONE® Open source AI presentation generator Gamma Alternative. Create professional slides with customizable themes and AI-generated content in minutes.
@@ -661,6 +661,8 @@
 
 ## others 
 
+- [effortprogrammer/mcpflow-router](https://github.com/effortprogrammer/mcpflow-router) - 
+- [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
 - [rapidrabbit76/GPTMock](https://github.com/rapidrabbit76/GPTMock) - Access OpenAI models programmatically through your ChatGPT subscription.
 - [happycastle114/oh-my-openclaw](https://github.com/happycastle114/oh-my-openclaw) - oh-my-opencode patterns ported to OpenClaw
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - A Claude Code skill that turns PDFs, docs, and codebases into Obsidian study vaults
