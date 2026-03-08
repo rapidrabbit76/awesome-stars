@@ -84,6 +84,7 @@
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [olzhasar/pyws-chess](https://github.com/olzhasar/pyws-chess) - A real-time chess game built with asyncio, FastAPI and websockets
 - [pming-kr/pming-content](https://github.com/pming-kr/pming-content) - 😃 좋은 컨텐츠를 기고받는 저장소 입니다
+- [BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub) - 백준 자동 푸시 익스텐션(Auto Git Push for BOJ)
 - [jojoldu/junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler) - 주니어 개발자 채용 정보
 - [velopert/velog](https://github.com/velopert/velog) - 
 
@@ -357,6 +358,9 @@
 
 ## Rust 
 
+- [marlocarlo/psmux](https://github.com/marlocarlo/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contri
+- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [panter-dsd/tatuin](https://github.com/panter-dsd/tatuin) - Tatuin (Task Aggregator TUI for N providers)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [dilluti0n/dpibreak](https://github.com/dilluti0n/dpibreak) - Fast and easy-to-use DPI circumvention tool in Rust. (Linux, Windows)
@@ -383,6 +387,7 @@
 
 ## TypeScript 
 
+- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [happycastle114/oh-my-openclaw](https://github.com/happycastle114/oh-my-openclaw) - oh-my-opencode patterns ported to OpenClaw
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
@@ -399,7 +404,6 @@
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
-- [BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub) - 백준 자동 푸시 익스텐션(Auto Git Push for BOJ)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [uyu423/resume-nextjs](https://github.com/uyu423/resume-nextjs) - Next.js 로 누구나 쉽게 만드는 Static HTML 이력서
 - [ridimillie/ridimillie-frontend](https://github.com/ridimillie/ridimillie-frontend) - 이책저책 :: 당신이 찾는 모든 E-Book
