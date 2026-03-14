@@ -18,6 +18,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [Others](#others)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Rich Text Format](#rich-text-format)
 - [Rust](#rust)
@@ -80,7 +81,7 @@
 ## JavaScript 
 
 - [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project kn
-- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find the fastest coding LLM models in seconds
+- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 158 FREE coding LLM models across 20 providers in real time
 - [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core) - A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations.
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [olzhasar/pyws-chess](https://github.com/olzhasar/pyws-chess) - A real-time chess game built with asyncio, FastAPI and websockets
@@ -148,9 +149,13 @@
 - [Nate711/StanfordDoggoProject](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is an open source quadruped robot that jumps, flips, and trots!
 - [art28/Classic-Deep-Learning-with-Tensorflow-Eager-Execution](https://github.com/art28/Classic-Deep-Learning-with-Tensorflow-Eager-Execution) - Classical deep learning paper implementation using tensorflow's eager execution
 
+## PowerShell 
+
+- [marlocarlo/psmux](https://github.com/marlocarlo/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀
+
 ## Python 
 
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Deep Agents is an agent harness built on langchain and langgraph. Deep Agents are equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - making them well-equipped to
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 - [effortprogrammer/mcpflow-router](https://github.com/effortprogrammer/mcpflow-router) - 
 - [rapidrabbit76/GPTMock](https://github.com/rapidrabbit76/GPTMock) - Access OpenAI models programmatically through your ChatGPT subscription.
 - [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
@@ -199,7 +204,7 @@
 - [Lancetnik/Propan](https://github.com/Lancetnik/Propan) - Propan is a powerful and easy-to-use Python framework for building event-driven applications that interact with any MQ Broker
 - [amisadmin/fastapi-amis-admin-demo](https://github.com/amisadmin/fastapi-amis-admin-demo) - An example fastapi-amis-admin application
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
+- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py) - High level Python client for OpenSearch (deprecated, moved to opensearch-py)
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
@@ -362,7 +367,6 @@
 
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [deletexiumu/wifi-densepose](https://github.com/deletexiumu/wifi-densepose) - ⚠️ SCAM ALERT: Technical audit reveals this project is a non-functional AI-generated facade with fake CSI data, no trained models, and suspected star inflation
-- [marlocarlo/psmux](https://github.com/marlocarlo/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contri
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [panter-dsd/tatuin](https://github.com/panter-dsd/tatuin) - Tatuin (Task Aggregator TUI for N providers)
