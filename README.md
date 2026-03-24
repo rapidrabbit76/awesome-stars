@@ -161,7 +161,7 @@
 - [rapidrabbit76/GPTMock](https://github.com/rapidrabbit76/GPTMock) - Access OpenAI models programmatically through your ChatGPT subscription.
 - [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
-- [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
+- [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - OpenAI & Ollama compatible API powered by Codex
 - [akamhy/videohash](https://github.com/akamhy/videohash) - Near Duplicate Video Detection (Perceptual Video Hashing) - Get a 64-bit comparable hash-value for any video.
 - [jayzelenkov/macos-gemini-overlay](https://github.com/jayzelenkov/macos-gemini-overlay) - A simple macOS overlay application for pinning 'gemini.google.com' to a dedicated window and key command.
 - [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
@@ -310,6 +310,7 @@
 - [vahidk/tfrecord](https://github.com/vahidk/tfrecord) - Standalone TFRecord reader/writer with PyTorch data loaders
 - [Lightning-AI/tutorials](https://github.com/Lightning-AI/tutorials) - Collection of Pytorch lightning tutorial form as rich scripts automatically transformed to ipython notebooks.
 - [jiupinjia/stylized-neural-painting](https://github.com/jiupinjia/stylized-neural-painting) - Official Pytorch implementation of the preprint paper "Stylized Neural Painting", in CVPR 2021.
+- [lucidrains/lightweight-gan](https://github.com/lucidrains/lightweight-gan) - Implementation of 'lightweight' GAN, proposed in ICLR 2021, in Pytorch. High resolution image generations that can be trained within a day or two
 - [eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
 - [pradeeplam/Anime-Sketch-Coloring-with-Swish-Gated-Residual-UNet](https://github.com/pradeeplam/Anime-Sketch-Coloring-with-Swish-Gated-Residual-UNet) - Implementation of paper which uses a swish-gated residual U-net to color line-art anime drawings
 - [TachibanaYoshino/AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) - A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transfo
@@ -322,6 +323,7 @@
 - [timesler/facenet-pytorch](https://github.com/timesler/facenet-pytorch) - Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
 - [bryandlee/naver-webtoon-data](https://github.com/bryandlee/naver-webtoon-data) - Download scripts for NAVER Webtoon images
+- [lucidrains/nuwa-pytorch](https://github.com/lucidrains/nuwa-pytorch) - Implementation of NÜWA, state of the art attention network for text to video synthesis, in Pytorch
 - [rosinality/style-based-gan-pytorch](https://github.com/rosinality/style-based-gan-pytorch) - Implementation A Style-Based Generator Architecture for Generative Adversarial Networks in PyTorch
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [rosinality/swapping-autoencoder-pytorch](https://github.com/rosinality/swapping-autoencoder-pytorch) - Unofficial implementation of Swapping Autoencoder for Deep Image Manipulation (https://arxiv.org/abs/2007.00653) in PyTorch
@@ -396,6 +398,7 @@
 
 ## TypeScript 
 
+- [griffinmartin/opencode-lazy](https://github.com/griffinmartin/opencode-lazy) - Plugin manager for OpenCode. Search, install, and manage plugins without leaving your session.
 - [lcoutodemos/clui-cc](https://github.com/lcoutodemos/clui-cc) - Clui CC — Command Line User Interface for Claude Code
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
