@@ -398,6 +398,7 @@
 
 ## TypeScript 
 
+- [skillsgate/skillsgate](https://github.com/skillsgate/skillsgate) - 
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [griffinmartin/opencode-lazy](https://github.com/griffinmartin/opencode-lazy) - Plugin manager for OpenCode. Search, install, and manage plugins without leaving your session.
 - [lcoutodemos/clui-cc](https://github.com/lcoutodemos/clui-cc) - Clui CC — Command Line User Interface for Claude Code
