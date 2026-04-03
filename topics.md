@@ -113,7 +113,6 @@
 - [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
-- [testing](#testing)
 - [tui](#tui)
 - [typescript](#typescript)
 - [ui](#ui)
@@ -854,6 +853,7 @@
 - [motlabs/awesome-ml-demos-with-android](https://github.com/motlabs/awesome-ml-demos-with-android) - The challenge for Tensorflow Lite and MLKit model inferencing on Android Platform
 - [OValery16/Manga-colorization---cycle-gan](https://github.com/OValery16/Manga-colorization---cycle-gan) - Tutorial about the use of cycle-gan to colorize a manga
 - [tensorflow/community](https://github.com/tensorflow/community) - Stores documents used by the TensorFlow developer community
+- [abseil/abseil-py](https://github.com/abseil/abseil-py) - Abseil Common Libraries (Python)
 - [ozan-oktay/Attention-Gated-Networks](https://github.com/ozan-oktay/Attention-Gated-Networks) - Use of Attention Gates in a Convolutional Neural Network / Medical Image Classification and Segmentation
 - [yfeng95/GAN](https://github.com/yfeng95/GAN) - Resources and Implementations of  Generative Adversarial Nets: GAN, DCGAN, WGAN, CGAN, InfoGAN
 - [Nate711/StanfordDoggoProject](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is an open source quadruped robot that jumps, flips, and trots!
@@ -944,7 +944,6 @@
 - [mad4ms/python-opencv-gstreamer-examples](https://github.com/mad4ms/python-opencv-gstreamer-examples) - Python examples on how to use GStreamer within OpenCV. Now with GPU support! :fire::fire::fire:
 - [FrancescoSaverioZuppichini/torchserve-tryout](https://github.com/FrancescoSaverioZuppichini/torchserve-tryout) - Deploy a CNN with torchserve using a custom handler
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [abseil/abseil-py](https://github.com/abseil/abseil-py) - Abseil Common Libraries (Python)
 
 ## python3 
 
@@ -1100,10 +1099,6 @@
 - [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-
-## testing 
-
-- [abseil/abseil-py](https://github.com/abseil/abseil-py) - Abseil Common Libraries (Python)
 
 ## tui 
 
