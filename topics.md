@@ -717,7 +717,7 @@
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) - A clean web dashboard for OpenClaw. Connect your Gateway, manage agents, and ship faster. ⭐️ Star if you like it!
 - [deletexiumu/wifi-densepose](https://github.com/deletexiumu/wifi-densepose) - ⚠️ SCAM ALERT: Technical audit reveals this project is a non-functional AI-generated facade with fake CSI data, no trained models, and suspected star inflation
-- [jjongguet/oh-my-gemini](https://github.com/jjongguet/oh-my-gemini) - 
+- [jjongguet/oh-my-product](https://github.com/jjongguet/oh-my-product) - 
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [effortprogrammer/mcpflow-router](https://github.com/effortprogrammer/mcpflow-router) - 
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
