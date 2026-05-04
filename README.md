@@ -157,7 +157,7 @@
 ## Python 
 
 - [civilian7/sql-tutorial](https://github.com/civilian7/sql-tutorial) - SQL tutorial with realistic e-commerce database — 30 tables, 690K rows, 21 lessons, 270 exercises. SQLite/MySQL/PostgreSQL. Bilingual (ko/en).
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic 
 - [effortprogrammer/mcpflow-router](https://github.com/effortprogrammer/mcpflow-router) - 
 - [rapidrabbit76/GPTMock](https://github.com/rapidrabbit76/GPTMock) - Access OpenAI models programmatically through your ChatGPT subscription.
 - [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
@@ -245,7 +245,7 @@
 - [tobran/GALIP](https://github.com/tobran/GALIP) - [CVPR2023] A faster, smaller, and better text-to-image model for large-scale training
 - [kekmodel/MPL-pytorch](https://github.com/kekmodel/MPL-pytorch) - Unofficial PyTorch implementation of "Meta Pseudo Labels"
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [p1atdev/stable-diffusion-webui-adverse-cleaner-tab](https://github.com/p1atdev/stable-diffusion-webui-adverse-cleaner-tab) - An extension of AUTOMATIC1111's webui to remove adverse noise from images.
 - [mkshing/e4t-diffusion](https://github.com/mkshing/e4t-diffusion) - Implementation of Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models
