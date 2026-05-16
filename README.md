@@ -158,7 +158,7 @@
 
 - [VRSEN/OpenSwarm](https://github.com/VRSEN/OpenSwarm) - Claude code for everything except coding
 - [civilian7/sql-tutorial](https://github.com/civilian7/sql-tutorial) - SQL tutorial with realistic e-commerce database — 30 tables, 690K rows, 21 lessons, 270 exercises. SQLite/MySQL/PostgreSQL. Bilingual (ko/en).
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph.
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
 - [effortprogrammer/mcpflow-router](https://github.com/effortprogrammer/mcpflow-router) - 
 - [rapidrabbit76/GPTMock](https://github.com/rapidrabbit76/GPTMock) - Access OpenAI models programmatically through your ChatGPT subscription.
 - [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
