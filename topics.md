@@ -741,6 +741,7 @@
 
 ## others 
 
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [VRSEN/OpenSwarm](https://github.com/VRSEN/OpenSwarm) - Claude code for everything except coding
 - [civilian7/sql-tutorial](https://github.com/civilian7/sql-tutorial) - SQL tutorial with realistic e-commerce database — 30 tables, 690K rows, 21 lessons, 270 exercises. SQLite/MySQL/PostgreSQL. Bilingual (ko/en).
 - [lcoutodemos/clui-cc](https://github.com/lcoutodemos/clui-cc) - Clui CC — Command Line User Interface for Claude Code
@@ -786,7 +787,6 @@
 - [naver-ai/DenseDiffusion](https://github.com/naver-ai/DenseDiffusion) - Official Pytorch Implementation of DenseDiffusion (ICCV 2023)
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [amisadmin/fastapi-amis-admin-demo](https://github.com/amisadmin/fastapi-amis-admin-demo) - An example fastapi-amis-admin application
-- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py) - High level Python client for OpenSearch (deprecated, moved to opensearch-py)
 - [System-SW/fair-udp](https://github.com/System-SW/fair-udp) - for fair udp simulation
 - [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
