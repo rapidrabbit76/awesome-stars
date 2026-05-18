@@ -207,7 +207,6 @@
 - [Lancetnik/Propan](https://github.com/Lancetnik/Propan) - Propan is a powerful and easy-to-use Python framework for building event-driven applications that interact with any MQ Broker
 - [amisadmin/fastapi-amis-admin-demo](https://github.com/amisadmin/fastapi-amis-admin-demo) - An example fastapi-amis-admin application
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
-- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py) - High level Python client for OpenSearch (deprecated, moved to opensearch-py)
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
@@ -400,6 +399,7 @@
 
 ## TypeScript 
 
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.
 - [skillsgate/skillsgate](https://github.com/skillsgate/skillsgate) - 
