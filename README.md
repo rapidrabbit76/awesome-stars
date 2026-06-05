@@ -69,6 +69,7 @@
 
 ## HTML 
 
+- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 - [rubyon/easy_wg_mikrotik](https://github.com/rubyon/easy_wg_mikrotik) - 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [martiansideofthemoon/style-transfer-paraphrase](https://github.com/martiansideofthemoon/style-transfer-paraphrase) - Official code and data repository for our EMNLP 2020 long paper "Reformulating Unsupervised Style Transfer as Paraphrase Generation" (https://arxiv.org/abs/2010.05700).
@@ -81,7 +82,6 @@
 ## JavaScript 
 
 - [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project kn
-- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 - [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core) - A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations.
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [olzhasar/pyws-chess](https://github.com/olzhasar/pyws-chess) - A real-time chess game built with asyncio, FastAPI and websockets
@@ -401,6 +401,7 @@
 
 ## TypeScript 
 
+- [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.
