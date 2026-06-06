@@ -193,7 +193,7 @@
 - [uriyyo/fastapi-lifespan-manager](https://github.com/uriyyo/fastapi-lifespan-manager) - FastAPI LifespanManager 🧑‍⚖️
 - [permitio/fastapi_websocket_pubsub](https://github.com/permitio/fastapi_websocket_pubsub) - A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub ==  ⚡ 💪 ❤️
 - [rapidrabbit76/SketchColorization](https://github.com/rapidrabbit76/SketchColorization) - line drawing colorization using  pytorch
-- [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
+- [msgspec/msgspec](https://github.com/msgspec/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [jina-ai/fastapi-serve](https://github.com/jina-ai/fastapi-serve) - FastAPI to the Cloud, Batteries Included! ☁️🔋🚀
 - [melvinkcx/fastapi-events](https://github.com/melvinkcx/fastapi-events) - Asynchronous event dispatching/handling library for FastAPI and Starlette
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
