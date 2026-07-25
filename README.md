@@ -43,6 +43,7 @@
 
 ## C++ 
 
+- [hurryman2212/vds](https://github.com/hurryman2212/vds) - Virtual USB-to-Bluetooth Bridge for DualSense and DualSense Edge Wireless Controllers
 - [awalol/DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [System-SW/fair-udp](https://github.com/System-SW/fair-udp) - for fair udp simulation
@@ -290,7 +291,7 @@
 - [DS2BRAIN/ds2](https://github.com/DS2BRAIN/ds2) - Easiest way to use AI models without coding (Web UI & API support)
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 - [jowilf/starlette-admin-demo](https://github.com/jowilf/starlette-admin-demo) - A demo project to showcase Starlette Admin features
-- [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
+- [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for FastApi & Starlette applications
 - [yfszzx/stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) - an images browse for stable-diffusion-webui
 - [cloneofsimo/minDiffusion](https://github.com/cloneofsimo/minDiffusion) - Self-contained, minimalistic implementation of diffusion models with Pytorch.
 - [bingchenlll/FastGAN-pytorch](https://github.com/bingchenlll/FastGAN-pytorch) - Official implementation of the paper "Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis" in ICLR 2021
