@@ -1243,6 +1243,7 @@
 
 ## windows 
 
+- [SundayMoments/DS5_Bridge](https://github.com/SundayMoments/DS5_Bridge) - Wireless DualSense and DualSense Edge bridge for Raspberry Pi Pico 2 W, with Windows companion app for tuning haptics, audio, triggers, lighting, and bridge settings.
 - [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 
