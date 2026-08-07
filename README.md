@@ -409,6 +409,7 @@
 
 ## TypeScript 
 
+- [SundayMoments/DS5_Bridge](https://github.com/SundayMoments/DS5_Bridge) - Wireless DualSense and DualSense Edge bridge for Raspberry Pi Pico 2 W, with Windows companion app for tuning haptics, audio, triggers, lighting, and bridge settings.
 - [3x-haust/gitdb](https://github.com/3x-haust/gitdb) - GitHub-native encrypted database with a PostgreSQL-compatible facade
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
