@@ -88,7 +88,6 @@
 - [nextjs](#nextjs)
 - [nim](#nim)
 - [nlp](#nlp)
-- [no-code](#no-code)
 - [nodejs](#nodejs)
 - [numpy](#numpy)
 - [obsidian](#obsidian)
@@ -731,10 +730,6 @@
 
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-
-## no-code 
-
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 
 ## nodejs 
 
