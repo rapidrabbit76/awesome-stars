@@ -138,6 +138,7 @@
 
 ## Others 
 
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [alanescarcha/pikvm](https://github.com/alanescarcha/pikvm) - Fork pikvm.org v0 with Raspberry Pi 3b+ & Arduino Pro Micro
 - [xavierchoi/Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
@@ -413,7 +414,6 @@
 - [3x-haust/gitdb](https://github.com/3x-haust/gitdb) - GitHub-native encrypted database with a PostgreSQL-compatible facade
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.
 - [skillsgate/skillsgate](https://github.com/skillsgate/skillsgate) - 
 - [lcoutodemos/clui-cc](https://github.com/lcoutodemos/clui-cc) - Clui CC — Command Line User Interface for Claude Code
