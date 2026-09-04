@@ -138,7 +138,6 @@
 
 ## Others 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [alanescarcha/pikvm](https://github.com/alanescarcha/pikvm) - Fork pikvm.org v0 with Raspberry Pi 3b+ & Arduino Pro Micro
 - [xavierchoi/Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
@@ -307,6 +306,7 @@
 - [rapidrabbit76/stable-diffusion-API](https://github.com/rapidrabbit76/stable-diffusion-API) - Unofficial Fastapi implementation of Stable-Diffusion API
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
+- [andfanilo/streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas) - Do you like Quick, Draw? Well what if you could train/predict doodles drawn inside Streamlit? Also draws lines, circles and boxes over background images for annotation.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [teamhide/fastapi-boilerplate](https://github.com/teamhide/fastapi-boilerplate) - FastAPI boilerplate for real world production
 - [jaehyeongAN/RedisAI-demo](https://github.com/jaehyeongAN/RedisAI-demo) - 
@@ -414,6 +414,7 @@
 - [3x-haust/gitdb](https://github.com/3x-haust/gitdb) - GitHub-native encrypted database with a PostgreSQL-compatible facade
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.
 - [skillsgate/skillsgate](https://github.com/skillsgate/skillsgate) - 
 - [lcoutodemos/clui-cc](https://github.com/lcoutodemos/clui-cc) - Clui CC — Command Line User Interface for Claude Code
@@ -441,7 +442,6 @@
 - [uyu423/resume-nextjs](https://github.com/uyu423/resume-nextjs) - Next.js 로 누구나 쉽게 만드는 Static HTML 이력서
 - [ridimillie/ridimillie-frontend](https://github.com/ridimillie/ridimillie-frontend) - 이책저책 :: 당신이 찾는 모든 E-Book
 - [banlife/class-enum](https://github.com/banlife/class-enum) - Extendable class-enum on typescript
-- [andfanilo/streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas) - Do you like Quick, Draw? Well what if you could train/predict doodles drawn inside Streamlit? Also draws lines, circles and boxes over background images for annotation.
 - [microsoft/onnxjs-demo](https://github.com/microsoft/onnxjs-demo) - demos to show the capabilities of ONNX.js
 - [w-okada/image-analyze-workers](https://github.com/w-okada/image-analyze-workers) - The zoo of image processing webworkers for javascript or typescript.
 
