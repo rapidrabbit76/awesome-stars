@@ -824,7 +824,7 @@
 - [PythonNest/PyNest](https://github.com/PythonNest/PyNest) - PyNest is a Python framework built on top of FastAPI that follows the modular architecture of NestJS
 - [dimz119/learn-ansible](https://github.com/dimz119/learn-ansible) - 
 - [vegardit/docker-traefik-logrotate](https://github.com/vegardit/docker-traefik-logrotate) - Lightweight multi-arch Docker image to be used in conjunction with a dockerized Traefik instance to rotate Traefik's access logs.
-- [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
+- [apple-aiml-research/ml-mgie](https://github.com/apple-aiml-research/ml-mgie) - 
 - [rlawjdghek/StableVITON](https://github.com/rlawjdghek/StableVITON) - [CVPR2024] StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On
 - [zcop/Asrock-DeskMini-X300-5600G](https://github.com/zcop/Asrock-DeskMini-X300-5600G) - Asrock DeskMini X300 with Ryzen 5 5600G running MacOS Sonoma 14.1.1
 - [jordancrawford/rpi-deluge-docker](https://github.com/jordancrawford/rpi-deluge-docker) - A simple Deluge and Deluge Web image for the Raspberry Pi.
