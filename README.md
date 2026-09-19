@@ -26,6 +26,7 @@
 - [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -65,7 +66,7 @@
 
 ## Go 
 
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [unraid/apprise-go](https://github.com/unraid/apprise-go) - Apprise, Ported to Go
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 
@@ -88,6 +89,7 @@
 
 ## JavaScript 
 
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [loteran/DS5Dongle](https://github.com/loteran/DS5Dongle) - Fork of awalol/DS5Dongle — adds Audio Auto Haptics: game sound → DualSense and DualSense Edge rumble over Bluetooth
 - [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project kn
 - [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core) - A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations.
@@ -411,6 +413,10 @@
 - [vegardit/docker-traefik-logrotate](https://github.com/vegardit/docker-traefik-logrotate) - Lightweight multi-arch Docker image to be used in conjunction with a dockerized Traefik instance to rotate Traefik's access logs.
 - [jordancrawford/rpi-deluge-docker](https://github.com/jordancrawford/rpi-deluge-docker) - A simple Deluge and Deluge Web image for the Raspberry Pi.
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
+
+## Swift 
+
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 
 ## TypeScript 
 
