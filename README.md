@@ -93,6 +93,7 @@
 - [loteran/DS5Dongle](https://github.com/loteran/DS5Dongle) - Fork of awalol/DS5Dongle — adds Audio Auto Haptics: game sound → DualSense and DualSense Edge rumble over Bluetooth
 - [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project kn
 - [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core) - A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations.
+- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [pming-kr/pming-content](https://github.com/pming-kr/pming-content) - 😃 좋은 컨텐츠를 기고받는 저장소 입니다
 - [BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub) - 백준 자동 푸시 익스텐션(Auto Git Push for BOJ)
@@ -445,7 +446,6 @@
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
 - [allweonedev/presentation-ai](https://github.com/allweonedev/presentation-ai) - ALLWEONE® Open source AI presentation generator Gamma Alternative. Create professional slides with customizable themes and AI-generated content in minutes.
-- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 - [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
