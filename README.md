@@ -314,7 +314,6 @@
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 - [andfanilo/streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas) - Do you like Quick, Draw? Well what if you could train/predict doodles drawn inside Streamlit? Also draws lines, circles and boxes over background images for annotation.
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [teamhide/fastapi-boilerplate](https://github.com/teamhide/fastapi-boilerplate) - FastAPI boilerplate for real world production
 - [jaehyeongAN/RedisAI-demo](https://github.com/jaehyeongAN/RedisAI-demo) - 
 - [crowsonkb/v-diffusion-jax](https://github.com/crowsonkb/v-diffusion-jax) - v objective diffusion inference code for JAX.
@@ -452,6 +451,7 @@
 - [uyu423/resume-nextjs](https://github.com/uyu423/resume-nextjs) - Next.js 로 누구나 쉽게 만드는 Static HTML 이력서
 - [ridimillie/ridimillie-frontend](https://github.com/ridimillie/ridimillie-frontend) - 이책저책 :: 당신이 찾는 모든 E-Book
 - [banlife/class-enum](https://github.com/banlife/class-enum) - Extendable class-enum on typescript
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [microsoft/onnxjs-demo](https://github.com/microsoft/onnxjs-demo) - demos to show the capabilities of ONNX.js
 - [w-okada/image-analyze-workers](https://github.com/w-okada/image-analyze-workers) - The zoo of image processing webworkers for javascript or typescript.
 
