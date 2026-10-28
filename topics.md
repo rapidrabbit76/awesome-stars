@@ -116,6 +116,7 @@
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
+- [skills](#skills)
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
@@ -1166,6 +1167,11 @@
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [umihico/docker-selenium-lambda](https://github.com/umihico/docker-selenium-lambda) - The simplest demo of chrome automation by python and selenium in AWS Lambda
 - [jina-ai/fastapi-serve](https://github.com/jina-ai/fastapi-serve) - FastAPI to the Cloud, Batteries Included! ☁️🔋🚀
+
+## skills 
+
+- [skillsgate/skillsgate](https://github.com/skillsgate/skillsgate) - 
+- [bevibing/tutor-skills](https://github.com/bevibing/tutor-skills) - A Claude Code skill that turns PDFs, docs, and codebases into Obsidian study vaults
 
 ## sql 
 
