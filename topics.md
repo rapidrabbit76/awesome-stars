@@ -715,7 +715,7 @@
 - [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project kn
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
-- [promplate/hmr](https://github.com/promplate/hmr) - Real hot-module reload for Python—side effects handled reactively. https://py3.online/hmr
+- [promplate/hmr](https://github.com/promplate/hmr) - Real hot-module reload for Python—side effects handled reactively. https://pyth-on-line.promplate.dev/hmr
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## microservices 
