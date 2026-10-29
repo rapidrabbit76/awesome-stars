@@ -89,6 +89,7 @@
 
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [loteran/DS5Dongle](https://github.com/loteran/DS5Dongle) - Fork of awalol/DS5Dongle — adds Audio Auto Haptics: game sound → DualSense and DualSense Edge rumble over Bluetooth
+- [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project kn
 - [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core) - A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations.
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
@@ -180,7 +181,7 @@
 - [jayzelenkov/macos-gemini-overlay](https://github.com/jayzelenkov/macos-gemini-overlay) - [DEPRECATED] Superseded by the official Gemini macOS app (gemini.google/mac). A simple macOS overlay application for pinning 'gemini.google.com' to a dedicated window and key command.
 - [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
 - [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset) - offset-free paging for sqlalchemy
-- [promplate/hmr](https://github.com/promplate/hmr) - Real hot-module reload for Python—side effects handled reactively. https://py3.online/hmr
+- [promplate/hmr](https://github.com/promplate/hmr) - Real hot-module reload for Python—side effects handled reactively. https://pyth-on-line.promplate.dev/hmr
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
@@ -417,7 +418,6 @@
 
 - [SundayMoments/DS5_Bridge](https://github.com/SundayMoments/DS5_Bridge) - Wireless DualSense and DualSense Edge bridge for Raspberry Pi Pico 2 W, with Windows companion app for tuning haptics, audio, triggers, lighting, and bridge settings.
 - [3x-haust/gitdb](https://github.com/3x-haust/gitdb) - GitHub-native encrypted database with a PostgreSQL-compatible facade
-- [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode 2 plugin that uses your existing Claude Code credentials — no separate login needed.
