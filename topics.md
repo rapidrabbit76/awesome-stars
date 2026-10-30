@@ -14,6 +14,7 @@
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [android](#android)
+- [animation](#animation)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -219,6 +220,10 @@
 ## android 
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
+
+## animation 
+
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 
 ## api 
 
