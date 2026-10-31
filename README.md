@@ -319,7 +319,7 @@
 - [rapidrabbit76/GANs](https://github.com/rapidrabbit76/GANs) - 
 - [teamhide/fastapi-layered-architecture](https://github.com/teamhide/fastapi-layered-architecture) - FastAPI Layered Architecture
 - [nocotan/pytorch-lightning-gans](https://github.com/nocotan/pytorch-lightning-gans) - Collection of PyTorch Lightning implementations of Generative Adversarial Network varieties presented in research papers.
-- [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
+- [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - Train and evaluate embeddings for similarity search with PyTorch. Includes contrastive losses, hard example mining, samplers, and retrieval metrics.
 - [zhen8838/AnimeStylized](https://github.com/zhen8838/AnimeStylized) - This repo will implement a series of anime stylized algorithm. AnimeGAN, White-box Cartoonize.. etc
 - [vahidk/tfrecord](https://github.com/vahidk/tfrecord) - Standalone TFRecord reader/writer with PyTorch data loaders
 - [Lightning-AI/tutorials](https://github.com/Lightning-AI/tutorials) - Collection of Pytorch lightning tutorial form as rich scripts automatically transformed to ipython notebooks.
