@@ -24,6 +24,7 @@
 - [azure](#azure)
 - [backend](#backend)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [claude](#claude)
@@ -36,6 +37,7 @@
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
+- [cpp](#cpp)
 - [csharp](#csharp)
 - [data](#data)
 - [data-analysis](#data-analysis)
@@ -61,6 +63,8 @@
 - [flask](#flask)
 - [flutter](#flutter)
 - [framework](#framework)
+- [game-development](#game-development)
+- [game-engine](#game-engine)
 - [generative-ai](#generative-ai)
 - [github](#github)
 - [gui](#gui)
@@ -99,6 +103,7 @@
 - [opencv](#opencv)
 - [operating-system](#operating-system)
 - [others](#others)
+- [physics](#physics)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [programming](#programming)
@@ -286,6 +291,10 @@
 
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 
+## c-plus-plus 
+
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
+
 ## chatgpt 
 
 - [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - OpenAI & Ollama compatible API powered by Codex
@@ -374,6 +383,10 @@
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - Train and evaluate embeddings for similarity search with PyTorch. Includes contrastive losses, hard example mining, samplers, and retrieval metrics.
 - [richzhang/colorization-pytorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization
 - [sudheerachary/Manga_Colorization](https://github.com/sudheerachary/Manga_Colorization) - cGAN-based Manga Colorization Using a Single Training Image.
+
+## cpp 
+
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
 
 ## csharp 
 
@@ -570,6 +583,14 @@
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [pystiche/pystiche](https://github.com/pystiche/pystiche) - Framework for Neural Style Transfer (NST) built upon PyTorch
+
+## game-development 
+
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
+
+## game-engine 
+
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
 
 ## generative-ai 
 
@@ -980,6 +1001,10 @@
 - [kvfrans/deepcolor](https://github.com/kvfrans/deepcolor) - Automatic coloring and shading of manga-style lineart, using Tensorflow + cGANs
 - [ktaebum/AttentionedDeepPaint](https://github.com/ktaebum/AttentionedDeepPaint) - Automatic Colorization of Anime Sketch Image
 - [lllyasviel/sketchKeras](https://github.com/lllyasviel/sketchKeras) - an u-net with some algorithm to take sketch from paints
+
+## physics 
+
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
 
 ## postgresql 
 
