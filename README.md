@@ -45,6 +45,7 @@
 
 ## C++ 
 
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
 - [hurryman2212/vds](https://github.com/hurryman2212/vds) - Virtual USB-to-Bluetooth Bridge for DualSense and DualSense Edge Wireless Controllers
 - [awalol/DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
