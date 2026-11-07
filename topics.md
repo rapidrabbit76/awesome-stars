@@ -137,6 +137,7 @@
 - [video](#video)
 - [vim](#vim)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
@@ -1298,6 +1299,11 @@
 ## vpn 
 
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
+
+## vscode 
+
+- [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 
 ## vuejs 
 
