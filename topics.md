@@ -16,6 +16,7 @@
 - [android](#android)
 - [animation](#animation)
 - [api](#api)
+- [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -58,6 +59,7 @@
 - [dotnet](#dotnet)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
+- [esp32](#esp32)
 - [fastapi](#fastapi)
 - [firebase](#firebase)
 - [flask](#flask)
@@ -240,6 +242,10 @@
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [teamhide/fastapi-boilerplate](https://github.com/teamhide/fastapi-boilerplate) - FastAPI boilerplate for real world production
+
+## arduino 
+
+- [ultramcu/acom-digimon](https://github.com/ultramcu/acom-digimon) - Open-source M5Stack Core2 firmware to communicate with real Digimon V-Pet toys (Pendulum Color, V-Pet, DMX, DMC) via DigiROM codes.
 
 ## artificial-intelligence 
 
@@ -435,7 +441,7 @@
 
 ## deep-learning 
 
-- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ https://greasyfork.org/en/scripts/437569-cotrans-manga-image-translator-regular-edition
 - [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
 - [rapidrabbit76/SketchColorization](https://github.com/rapidrabbit76/SketchColorization) - line drawing colorization using  pytorch
 - [Hironsan/BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
@@ -523,6 +529,10 @@
 ## education 
 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+
+## esp32 
+
+- [ultramcu/acom-digimon](https://github.com/ultramcu/acom-digimon) - Open-source M5Stack Core2 firmware to communicate with real Digimon V-Pet toys (Pendulum Color, V-Pet, DMX, DMC) via DigiROM codes.
 
 ## fastapi 
 
@@ -635,7 +645,7 @@
 
 ## image-processing 
 
-- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ https://greasyfork.org/en/scripts/437569-cotrans-manga-image-translator-regular-edition
 - [KUR-creative/SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine) - Manga/Comics Translation Helper Tool
 - [sudheerachary/Manga_Colorization](https://github.com/sudheerachary/Manga_Colorization) - cGAN-based Manga Colorization Using a Single Training Image.
 
@@ -779,7 +789,7 @@
 
 ## neural-network 
 
-- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ https://greasyfork.org/en/scripts/437569-cotrans-manga-image-translator-regular-edition
 - [DS2BRAIN/ds2](https://github.com/DS2BRAIN/ds2) - Easiest way to use AI models without coding (Web UI & API support)
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 
@@ -842,6 +852,7 @@
 
 ## others 
 
+- [GMMan/DigimonColorSpriteTool](https://github.com/GMMan/DigimonColorSpriteTool) - Digimon Color Sprite Import/Export Tool
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [rw-r-r-0644/bc250-core-unlock](https://github.com/rw-r-r-0644/bc250-core-unlock) - Unlock 2 extra cores on the AMD BC-250
 - [hurryman2212/vds](https://github.com/hurryman2212/vds) - Virtual USB-to-Bluetooth Bridge for DualSense and DualSense Edge Wireless Controllers
