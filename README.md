@@ -40,11 +40,13 @@
 
 ## C# # 
 
+- [GMMan/DigimonColorSpriteTool](https://github.com/GMMan/DigimonColorSpriteTool) - Digimon Color Sprite Import/Export Tool
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [horyu1234/KakaoTalkNoAdv](https://github.com/horyu1234/KakaoTalkNoAdv) - 
 
 ## C++ 
 
+- [ultramcu/acom-digimon](https://github.com/ultramcu/acom-digimon) - Open-source M5Stack Core2 firmware to communicate with real Digimon V-Pet toys (Pendulum Color, V-Pet, DMX, DMC) via DigiROM codes.
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
 - [hurryman2212/vds](https://github.com/hurryman2212/vds) - Virtual USB-to-Bluetooth Bridge for DualSense and DualSense Edge Wireless Controllers
 - [awalol/DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
@@ -168,7 +170,7 @@
 ## Python 
 
 - [rw-r-r-0644/bc250-core-unlock](https://github.com/rw-r-r-0644/bc250-core-unlock) - Unlock 2 extra cores on the AMD BC-250
-- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ https://greasyfork.org/en/scripts/437569-cotrans-manga-image-translator-regular-edition
 - [VRSEN/OpenSwarm](https://github.com/VRSEN/OpenSwarm) - Claude code for everything except coding
 - [civilian7/sql-tutorial](https://github.com/civilian7/sql-tutorial) - SQL tutorial with realistic e-commerce database — 30 tables, 690K rows, 21 lessons, 270 exercises. SQLite/MySQL/PostgreSQL. Bilingual (ko/en).
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
