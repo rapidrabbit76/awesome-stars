@@ -463,7 +463,7 @@
 ## Vue 
 
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [homer-dashboard/homer](https://github.com/homer-dashboard/homer) - A very simple static homepage for your server.
 
 
 ## License
