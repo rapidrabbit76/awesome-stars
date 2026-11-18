@@ -25,6 +25,7 @@
 - [aws](#aws)
 - [azure](#azure)
 - [backend](#backend)
+- [bioinformatics](#bioinformatics)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
@@ -120,6 +121,7 @@
 - [react-native](#react-native)
 - [reactjs](#reactjs)
 - [reinforcement-learning](#reinforcement-learning)
+- [robotics](#robotics)
 - [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
@@ -302,6 +304,10 @@
 
 - [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
+
+## bioinformatics 
+
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 
 ## c 
 
@@ -982,7 +988,6 @@
 - [mchong6/GANsNRoses](https://github.com/mchong6/GANsNRoses) - Official PyTorch repo for GAN's N' Roses. Diverse im2im and vid2vid selfie to anime translation.
 - [mchong6/SOAT](https://github.com/mchong6/SOAT) - Official PyTorch repo for StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.
 - [mchong6/JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization
-- [microsoft/onnxjs-demo](https://github.com/microsoft/onnxjs-demo) - demos to show the capabilities of ONNX.js
 - [w-okada/image-analyze-workers](https://github.com/w-okada/image-analyze-workers) - The zoo of image processing webworkers for javascript or typescript.
 - [williamyang1991/DualStyleGAN](https://github.com/williamyang1991/DualStyleGAN) - [CVPR 2022] Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer
 - [eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
@@ -1187,6 +1192,10 @@
 - [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 
+## robotics 
+
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
+
 ## rust 
 
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
@@ -1266,7 +1275,6 @@
 
 ## tensorflow 
 
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [DS2BRAIN/ds2](https://github.com/DS2BRAIN/ds2) - Easiest way to use AI models without coding (Web UI & API support)
 - [ShannonAI/service-streamer](https://github.com/ShannonAI/service-streamer) - Boosting your Web Services of Deep Learning Applications.
 - [vahidk/tfrecord](https://github.com/vahidk/tfrecord) - Standalone TFRecord reader/writer with PyTorch data loaders
