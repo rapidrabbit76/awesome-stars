@@ -214,7 +214,7 @@
 
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
-- [janus-sh/janus](https://github.com/janus-sh/janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
+- [janus-sh/Janus](https://github.com/janus-sh/Janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
 ## ai-agents 
 
@@ -370,7 +370,7 @@
 - [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project kn
 - [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash Classic is the open-source desktop app for running coding agents in parallel. Use your favorite agents in isolated Git worktrees, locally or over SSH.
-- [janus-sh/janus](https://github.com/janus-sh/janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
+- [janus-sh/Janus](https://github.com/janus-sh/Janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 - [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
@@ -710,7 +710,7 @@
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash Classic is the open-source desktop app for running coding agents in parallel. Use your favorite agents in isolated Git worktrees, locally or over SSH.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [janus-sh/janus](https://github.com/janus-sh/janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
+- [janus-sh/Janus](https://github.com/janus-sh/Janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 - [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [bitsandbytes-foundation/bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k-bit quantization for PyTorch.
@@ -1295,7 +1295,7 @@
 
 - [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash Classic is the open-source desktop app for running coding agents in parallel. Use your favorite agents in isolated Git worktrees, locally or over SSH.
-- [janus-sh/janus](https://github.com/janus-sh/janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
+- [janus-sh/Janus](https://github.com/janus-sh/Janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 
 ## tui 
